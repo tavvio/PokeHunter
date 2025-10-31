@@ -1,5 +1,5 @@
-# Autoinsp PokeHunter Challenge
-Fullstack challenge app for Autoinsp technical challenge. This project shows Pokémons and their types based on real-time weather data from the city entered by the user.
+# PokeHunter
+This fullstack app shows Pokémons and their types based on real-time weather data from the city entered by the user.
 
 ## Technologies used
 - React + TypeScript;
@@ -37,3 +37,5 @@ npm run dev
 ## Requirements:
 - Node.js version 18 or higher;
 - npm;
+
+Access the URL http://localhost:5173/ to view.
